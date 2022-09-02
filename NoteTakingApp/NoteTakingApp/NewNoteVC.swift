@@ -19,16 +19,6 @@ class NewNoteVC: UIViewController, UINavigationControllerDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        //textView.inputAccessoryView = toolbarView
-        
-      //let toolBar = UIToolbar(frame: CGRect(x: 0, y: 0, width: view.frame.size.width, height: 50))
-
-        
-        
-        
-        
-        
-        
         
         
         
